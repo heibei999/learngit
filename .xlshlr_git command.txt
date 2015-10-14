@@ -5,6 +5,7 @@ $ git add readme.txt
 $ git add file2.txt file3.txt
 $ git commit -m "wrote a readme file"
 $ git status
+$ git status
 $ git diff readme.txt 
 $ git log --pretty=oneline
 $ git reset --hard HEAD^
